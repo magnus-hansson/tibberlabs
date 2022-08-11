@@ -7,11 +7,9 @@
 	import '@carbon/charts/styles.css';
 	import { BarChartSimple, HistogramChart } from '@carbon/charts-svelte';
 
-	let nodes = [];
-	let arrangedData = [];
-	let consumption = [{ from: '2022-08-11', cost: 55 }];
+	
 	let kaj = [];
-	let test = [];
+	
 	let query = `{
 		viewer {
 			homes {
@@ -35,7 +33,7 @@
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
-				Authorization: 'Bearer K0GseNMSHm7EwtCVv29z0vawzqaEmdoT263DV2xIL3A'
+				Authorization: 'Bearer K0GseNMSHm7EwtCVv29z0vawzqaEmdoT263DV2xIL3Ax'
 			},
 			body: JSON.stringify({ query })
 		});

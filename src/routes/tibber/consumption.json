@@ -1,0 +1,1005 @@
+{
+    "consumption": {
+        "nodes": [{
+                "from": "2022-05-03T00:00:00.000+02:00",
+                "to": "2022-05-04T00:00:00.000+02:00",
+                "cost": 145.9839271875,
+                "unitPrice": 1.653403,
+                "unitPriceVAT": 0.330681,
+                "consumption": 88.293,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-04T00:00:00.000+02:00",
+                "to": "2022-05-05T00:00:00.000+02:00",
+                "cost": 247.27875845,
+                "unitPrice": 2.759992,
+                "unitPriceVAT": 0.551998,
+                "consumption": 89.594,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-05T00:00:00.000+02:00",
+                "to": "2022-05-06T00:00:00.000+02:00",
+                "cost": 145.1921505375,
+                "unitPrice": 1.687849,
+                "unitPriceVAT": 0.33757,
+                "consumption": 86.022,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-06T00:00:00.000+02:00",
+                "to": "2022-05-07T00:00:00.000+02:00",
+                "cost": 86.909786025,
+                "unitPrice": 1.420837,
+                "unitPriceVAT": 0.284167,
+                "consumption": 61.168,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-07T00:00:00.000+02:00",
+                "to": "2022-05-08T00:00:00.000+02:00",
+                "cost": 53.12627385,
+                "unitPrice": 0.579709,
+                "unitPriceVAT": 0.115942,
+                "consumption": 91.643,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-08T00:00:00.000+02:00",
+                "to": "2022-05-09T00:00:00.000+02:00",
+                "cost": 78.932325425,
+                "unitPrice": 0.964507,
+                "unitPriceVAT": 0.192901,
+                "consumption": 81.837,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-09T00:00:00.000+02:00",
+                "to": "2022-05-10T00:00:00.000+02:00",
+                "cost": 181.5282040125,
+                "unitPrice": 2.329285,
+                "unitPriceVAT": 0.465857,
+                "consumption": 77.933,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-10T00:00:00.000+02:00",
+                "to": "2022-05-11T00:00:00.000+02:00",
+                "cost": 56.456266425,
+                "unitPrice": 0.76581,
+                "unitPriceVAT": 0.153162,
+                "consumption": 73.721,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-11T00:00:00.000+02:00",
+                "to": "2022-05-12T00:00:00.000+02:00",
+                "cost": 96.4402736,
+                "unitPrice": 1.325239,
+                "unitPriceVAT": 0.265048,
+                "consumption": 72.772,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-12T00:00:00.000+02:00",
+                "to": "2022-05-13T00:00:00.000+02:00",
+                "cost": 66.265357925,
+                "unitPrice": 0.945163,
+                "unitPriceVAT": 0.189033,
+                "consumption": 70.11,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-13T00:00:00.000+02:00",
+                "to": "2022-05-14T00:00:00.000+02:00",
+                "cost": 82.0251084125,
+                "unitPrice": 1.039292,
+                "unitPriceVAT": 0.207858,
+                "consumption": 78.924,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-14T00:00:00.000+02:00",
+                "to": "2022-05-15T00:00:00.000+02:00",
+                "cost": 16.7709659125,
+                "unitPrice": 0.226592,
+                "unitPriceVAT": 0.045318,
+                "consumption": 74.014,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-15T00:00:00.000+02:00",
+                "to": "2022-05-16T00:00:00.000+02:00",
+                "cost": 83.1421523,
+                "unitPrice": 0.961726,
+                "unitPriceVAT": 0.192345,
+                "consumption": 86.451,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-16T00:00:00.000+02:00",
+                "to": "2022-05-17T00:00:00.000+02:00",
+                "cost": 123.2448064,
+                "unitPrice": 1.659237,
+                "unitPriceVAT": 0.331847,
+                "consumption": 74.278,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-17T00:00:00.000+02:00",
+                "to": "2022-05-18T00:00:00.000+02:00",
+                "cost": 110.24002015,
+                "unitPrice": 1.510986,
+                "unitPriceVAT": 0.302197,
+                "consumption": 72.959,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-18T00:00:00.000+02:00",
+                "to": "2022-05-19T00:00:00.000+02:00",
+                "cost": 93.1173549375,
+                "unitPrice": 1.270516,
+                "unitPriceVAT": 0.254103,
+                "consumption": 73.291,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-19T00:00:00.000+02:00",
+                "to": "2022-05-20T00:00:00.000+02:00",
+                "cost": 157.5115572625,
+                "unitPrice": 2.364967,
+                "unitPriceVAT": 0.472993,
+                "consumption": 66.602,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-20T00:00:00.000+02:00",
+                "to": "2022-05-21T00:00:00.000+02:00",
+                "cost": 131.72955765,
+                "unitPrice": 2.058114,
+                "unitPriceVAT": 0.411623,
+                "consumption": 64.005,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-21T00:00:00.000+02:00",
+                "to": "2022-05-22T00:00:00.000+02:00",
+                "cost": 79.8843535125,
+                "unitPrice": 1.134173,
+                "unitPriceVAT": 0.226835,
+                "consumption": 70.434,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-22T00:00:00.000+02:00",
+                "to": "2022-05-23T00:00:00.000+02:00",
+                "cost": 106.299281325,
+                "unitPrice": 1.700516,
+                "unitPriceVAT": 0.340103,
+                "consumption": 62.51,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-23T00:00:00.000+02:00",
+                "to": "2022-05-24T00:00:00.000+02:00",
+                "cost": 113.6409637375,
+                "unitPrice": 2.12421,
+                "unitPriceVAT": 0.424842,
+                "consumption": 53.498,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-24T00:00:00.000+02:00",
+                "to": "2022-05-25T00:00:00.000+02:00",
+                "cost": 55.0033386875,
+                "unitPrice": 0.910998,
+                "unitPriceVAT": 0.1822,
+                "consumption": 60.377,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-25T00:00:00.000+02:00",
+                "to": "2022-05-26T00:00:00.000+02:00",
+                "cost": 154.7162493,
+                "unitPrice": 1.766087,
+                "unitPriceVAT": 0.353217,
+                "consumption": 87.604,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-26T00:00:00.000+02:00",
+                "to": "2022-05-27T00:00:00.000+02:00",
+                "cost": 21.4636491125,
+                "unitPrice": 0.346663,
+                "unitPriceVAT": 0.069333,
+                "consumption": 61.915,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-27T00:00:00.000+02:00",
+                "to": "2022-05-28T00:00:00.000+02:00",
+                "cost": 18.4510829625,
+                "unitPrice": 0.237591,
+                "unitPriceVAT": 0.047518,
+                "consumption": 77.659,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-28T00:00:00.000+02:00",
+                "to": "2022-05-29T00:00:00.000+02:00",
+                "cost": 31.3756141875,
+                "unitPrice": 0.395807,
+                "unitPriceVAT": 0.079161,
+                "consumption": 79.27,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-29T00:00:00.000+02:00",
+                "to": "2022-05-30T00:00:00.000+02:00",
+                "cost": 124.526603275,
+                "unitPrice": 1.525631,
+                "unitPriceVAT": 0.305126,
+                "consumption": 81.623,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-30T00:00:00.000+02:00",
+                "to": "2022-05-31T00:00:00.000+02:00",
+                "cost": 173.209576875,
+                "unitPrice": 2.243444,
+                "unitPriceVAT": 0.448689,
+                "consumption": 77.207,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-05-31T00:00:00.000+02:00",
+                "to": "2022-06-01T00:00:00.000+02:00",
+                "cost": 122.98380845,
+                "unitPrice": 1.463971,
+                "unitPriceVAT": 0.292794,
+                "consumption": 84.007,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-01T00:00:00.000+02:00",
+                "to": "2022-06-02T00:00:00.000+02:00",
+                "cost": 138.465370575,
+                "unitPrice": 1.808185,
+                "unitPriceVAT": 0.361637,
+                "consumption": 76.577,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-02T00:00:00.000+02:00",
+                "to": "2022-06-03T00:00:00.000+02:00",
+                "cost": 145.580208675,
+                "unitPrice": 1.997122,
+                "unitPriceVAT": 0.399424,
+                "consumption": 72.895,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-03T00:00:00.000+02:00",
+                "to": "2022-06-04T00:00:00.000+02:00",
+                "cost": 131.4237341375,
+                "unitPrice": 1.742882,
+                "unitPriceVAT": 0.348576,
+                "consumption": 75.406,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-04T00:00:00.000+02:00",
+                "to": "2022-06-05T00:00:00.000+02:00",
+                "cost": 115.1287686875,
+                "unitPrice": 1.902357,
+                "unitPriceVAT": 0.380471,
+                "consumption": 60.519,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-05T00:00:00.000+02:00",
+                "to": "2022-06-06T00:00:00.000+02:00",
+                "cost": 38.1347188375,
+                "unitPrice": 0.587212,
+                "unitPriceVAT": 0.117442,
+                "consumption": 64.942,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-06T00:00:00.000+02:00",
+                "to": "2022-06-07T00:00:00.000+02:00",
+                "cost": 50.322598775,
+                "unitPrice": 0.612197,
+                "unitPriceVAT": 0.122439,
+                "consumption": 82.2,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-07T00:00:00.000+02:00",
+                "to": "2022-06-08T00:00:00.000+02:00",
+                "cost": 112.89560775,
+                "unitPrice": 2.04262,
+                "unitPriceVAT": 0.408524,
+                "consumption": 55.27,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-08T00:00:00.000+02:00",
+                "to": "2022-06-09T00:00:00.000+02:00",
+                "cost": 115.6303878375,
+                "unitPrice": 1.94376,
+                "unitPriceVAT": 0.388752,
+                "consumption": 59.488,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-09T00:00:00.000+02:00",
+                "to": "2022-06-10T00:00:00.000+02:00",
+                "cost": 144.5661126375,
+                "unitPrice": 2.078652,
+                "unitPriceVAT": 0.41573,
+                "consumption": 69.548,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-10T00:00:00.000+02:00",
+                "to": "2022-06-11T00:00:00.000+02:00",
+                "cost": 72.4142844625,
+                "unitPrice": 1.581132,
+                "unitPriceVAT": 0.316226,
+                "consumption": 45.799,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-11T00:00:00.000+02:00",
+                "to": "2022-06-12T00:00:00.000+02:00",
+                "cost": 12.800767175,
+                "unitPrice": 0.270652,
+                "unitPriceVAT": 0.05413,
+                "consumption": 47.296,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-12T00:00:00.000+02:00",
+                "to": "2022-06-13T00:00:00.000+02:00",
+                "cost": 30.7517252625,
+                "unitPrice": 0.397335,
+                "unitPriceVAT": 0.079467,
+                "consumption": 77.395,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-13T00:00:00.000+02:00",
+                "to": "2022-06-14T00:00:00.000+02:00",
+                "cost": 107.3118793,
+                "unitPrice": 1.570265,
+                "unitPriceVAT": 0.314053,
+                "consumption": 68.34,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-14T00:00:00.000+02:00",
+                "to": "2022-06-15T00:00:00.000+02:00",
+                "cost": 134.699777325,
+                "unitPrice": 2.192379,
+                "unitPriceVAT": 0.438476,
+                "consumption": 61.44,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-15T00:00:00.000+02:00",
+                "to": "2022-06-16T00:00:00.000+02:00",
+                "cost": 103.7773767125,
+                "unitPrice": 1.697206,
+                "unitPriceVAT": 0.339441,
+                "consumption": 61.146,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-16T00:00:00.000+02:00",
+                "to": "2022-06-17T00:00:00.000+02:00",
+                "cost": 135.7055814,
+                "unitPrice": 2.141683,
+                "unitPriceVAT": 0.428337,
+                "consumption": 63.364,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-17T00:00:00.000+02:00",
+                "to": "2022-06-18T00:00:00.000+02:00",
+                "cost": 116.3470821125,
+                "unitPrice": 2.049555,
+                "unitPriceVAT": 0.409911,
+                "consumption": 56.767,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-18T00:00:00.000+02:00",
+                "to": "2022-06-19T00:00:00.000+02:00",
+                "cost": 11.0694031875,
+                "unitPrice": 0.170411,
+                "unitPriceVAT": 0.034082,
+                "consumption": 64.957,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-19T00:00:00.000+02:00",
+                "to": "2022-06-20T00:00:00.000+02:00",
+                "cost": 16.2306586875,
+                "unitPrice": 0.290778,
+                "unitPriceVAT": 0.058156,
+                "consumption": 55.818,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-20T00:00:00.000+02:00",
+                "to": "2022-06-21T00:00:00.000+02:00",
+                "cost": 145.0843176625,
+                "unitPrice": 3.147438,
+                "unitPriceVAT": 0.629488,
+                "consumption": 46.096,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-21T00:00:00.000+02:00",
+                "to": "2022-06-22T00:00:00.000+02:00",
+                "cost": 142.238957675,
+                "unitPrice": 2.588516,
+                "unitPriceVAT": 0.517703,
+                "consumption": 54.95,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-22T00:00:00.000+02:00",
+                "to": "2022-06-23T00:00:00.000+02:00",
+                "cost": 134.867145375,
+                "unitPrice": 2.317106,
+                "unitPriceVAT": 0.463421,
+                "consumption": 58.205,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-23T00:00:00.000+02:00",
+                "to": "2022-06-24T00:00:00.000+02:00",
+                "cost": 76.8720788125,
+                "unitPrice": 1.003028,
+                "unitPriceVAT": 0.200606,
+                "consumption": 76.64,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-24T00:00:00.000+02:00",
+                "to": "2022-06-25T00:00:00.000+02:00",
+                "cost": 54.6952404375,
+                "unitPrice": 0.917521,
+                "unitPriceVAT": 0.183504,
+                "consumption": 59.612,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-25T00:00:00.000+02:00",
+                "to": "2022-06-26T00:00:00.000+02:00",
+                "cost": 29.9314621,
+                "unitPrice": 0.517765,
+                "unitPriceVAT": 0.103553,
+                "consumption": 57.809,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-26T00:00:00.000+02:00",
+                "to": "2022-06-27T00:00:00.000+02:00",
+                "cost": 74.7493916125,
+                "unitPrice": 1.424313,
+                "unitPriceVAT": 0.284863,
+                "consumption": 52.481,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-27T00:00:00.000+02:00",
+                "to": "2022-06-28T00:00:00.000+02:00",
+                "cost": 142.160753225,
+                "unitPrice": 2.656466,
+                "unitPriceVAT": 0.531293,
+                "consumption": 53.515,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-28T00:00:00.000+02:00",
+                "to": "2022-06-29T00:00:00.000+02:00",
+                "cost": 99.5509729625,
+                "unitPrice": 2.274515,
+                "unitPriceVAT": 0.454903,
+                "consumption": 43.768,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-29T00:00:00.000+02:00",
+                "to": "2022-06-30T00:00:00.000+02:00",
+                "cost": 186.3715499125,
+                "unitPrice": 3.623368,
+                "unitPriceVAT": 0.724674,
+                "consumption": 51.436,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-06-30T00:00:00.000+02:00",
+                "to": "2022-07-01T00:00:00.000+02:00",
+                "cost": 118.05955885,
+                "unitPrice": 3.65974,
+                "unitPriceVAT": 0.731948,
+                "consumption": 32.259,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-01T00:00:00.000+02:00",
+                "to": "2022-07-02T00:00:00.000+02:00",
+                "cost": 113.505977225,
+                "unitPrice": 2.813175,
+                "unitPriceVAT": 0.562635,
+                "consumption": 40.348,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-02T00:00:00.000+02:00",
+                "to": "2022-07-03T00:00:00.000+02:00",
+                "cost": 4.9507703125,
+                "unitPrice": 0.164423,
+                "unitPriceVAT": 0.032885,
+                "consumption": 30.11,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-03T00:00:00.000+02:00",
+                "to": "2022-07-04T00:00:00.000+02:00",
+                "cost": 17.4979269625,
+                "unitPrice": 0.583907,
+                "unitPriceVAT": 0.116781,
+                "consumption": 29.967,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-04T00:00:00.000+02:00",
+                "to": "2022-07-05T00:00:00.000+02:00",
+                "cost": 66.0095955625,
+                "unitPrice": 2.06972,
+                "unitPriceVAT": 0.413944,
+                "consumption": 31.893,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-05T00:00:00.000+02:00",
+                "to": "2022-07-06T00:00:00.000+02:00",
+                "cost": 48.5505566875,
+                "unitPrice": 1.133908,
+                "unitPriceVAT": 0.226782,
+                "consumption": 42.817,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-06T00:00:00.000+02:00",
+                "to": "2022-07-07T00:00:00.000+02:00",
+                "cost": 88.2097386125,
+                "unitPrice": 1.595574,
+                "unitPriceVAT": 0.319115,
+                "consumption": 55.284,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-07T00:00:00.000+02:00",
+                "to": "2022-07-08T00:00:00.000+02:00",
+                "cost": 111.0612659875,
+                "unitPrice": 2.173453,
+                "unitPriceVAT": 0.434691,
+                "consumption": 51.099,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-08T00:00:00.000+02:00",
+                "to": "2022-07-09T00:00:00.000+02:00",
+                "cost": 105.8649363,
+                "unitPrice": 1.557891,
+                "unitPriceVAT": 0.311578,
+                "consumption": 67.954,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-09T00:00:00.000+02:00",
+                "to": "2022-07-10T00:00:00.000+02:00",
+                "cost": 5.68321445,
+                "unitPrice": 0.09526,
+                "unitPriceVAT": 0.019052,
+                "consumption": 59.66,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-10T00:00:00.000+02:00",
+                "to": "2022-07-11T00:00:00.000+02:00",
+                "cost": 23.1212421625,
+                "unitPrice": 0.547975,
+                "unitPriceVAT": 0.109595,
+                "consumption": 42.194,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-11T00:00:00.000+02:00",
+                "to": "2022-07-12T00:00:00.000+02:00",
+                "cost": 74.3342761125,
+                "unitPrice": 2.417139,
+                "unitPriceVAT": 0.483428,
+                "consumption": 30.753,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-12T00:00:00.000+02:00",
+                "to": "2022-07-13T00:00:00.000+02:00",
+                "cost": 55.0654277375,
+                "unitPrice": 1.874057,
+                "unitPriceVAT": 0.374811,
+                "consumption": 29.383,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-13T00:00:00.000+02:00",
+                "to": "2022-07-14T00:00:00.000+02:00",
+                "cost": 24.80487445,
+                "unitPrice": 0.582931,
+                "unitPriceVAT": 0.116586,
+                "consumption": 42.552,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-14T00:00:00.000+02:00",
+                "to": "2022-07-15T00:00:00.000+02:00",
+                "cost": 2.2214487875,
+                "unitPrice": 0.112518,
+                "unitPriceVAT": 0.022504,
+                "consumption": 19.743,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-15T00:00:00.000+02:00",
+                "to": "2022-07-16T00:00:00.000+02:00",
+                "cost": 1.05594735,
+                "unitPrice": 0.084341,
+                "unitPriceVAT": 0.016868,
+                "consumption": 12.52,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-16T00:00:00.000+02:00",
+                "to": "2022-07-17T00:00:00.000+02:00",
+                "cost": 2.106550175,
+                "unitPrice": 0.166027,
+                "unitPriceVAT": 0.033205,
+                "consumption": 12.688,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-17T00:00:00.000+02:00",
+                "to": "2022-07-18T00:00:00.000+02:00",
+                "cost": 2.2194182875,
+                "unitPrice": 0.175448,
+                "unitPriceVAT": 0.03509,
+                "consumption": 12.65,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-18T00:00:00.000+02:00",
+                "to": "2022-07-19T00:00:00.000+02:00",
+                "cost": 19.339945575,
+                "unitPrice": 1.336924,
+                "unitPriceVAT": 0.267385,
+                "consumption": 14.466,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-19T00:00:00.000+02:00",
+                "to": "2022-07-20T00:00:00.000+02:00",
+                "cost": 21.1814699125,
+                "unitPrice": 1.707495,
+                "unitPriceVAT": 0.341499,
+                "consumption": 12.405,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-20T00:00:00.000+02:00",
+                "to": "2022-07-21T00:00:00.000+02:00",
+                "cost": 11.3987979,
+                "unitPrice": 0.875484,
+                "unitPriceVAT": 0.175097,
+                "consumption": 13.02,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-21T00:00:00.000+02:00",
+                "to": "2022-07-22T00:00:00.000+02:00",
+                "cost": 27.8687379125,
+                "unitPrice": 2.168942,
+                "unitPriceVAT": 0.433788,
+                "consumption": 12.849,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-22T00:00:00.000+02:00",
+                "to": "2022-07-23T00:00:00.000+02:00",
+                "cost": 20.06330225,
+                "unitPrice": 1.4162,
+                "unitPriceVAT": 0.28324,
+                "consumption": 14.167,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-23T00:00:00.000+02:00",
+                "to": "2022-07-24T00:00:00.000+02:00",
+                "cost": 20.176221025,
+                "unitPrice": 1.541111,
+                "unitPriceVAT": 0.308222,
+                "consumption": 13.092,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-24T00:00:00.000+02:00",
+                "to": "2022-07-25T00:00:00.000+02:00",
+                "cost": 13.07277955,
+                "unitPrice": 1.03236,
+                "unitPriceVAT": 0.206472,
+                "consumption": 12.663,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-25T00:00:00.000+02:00",
+                "to": "2022-07-26T00:00:00.000+02:00",
+                "cost": 2.524136975,
+                "unitPrice": 0.199473,
+                "unitPriceVAT": 0.039895,
+                "consumption": 12.654,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-26T00:00:00.000+02:00",
+                "to": "2022-07-27T00:00:00.000+02:00",
+                "cost": 1.7471676625,
+                "unitPrice": 0.136136,
+                "unitPriceVAT": 0.027227,
+                "consumption": 12.834,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-27T00:00:00.000+02:00",
+                "to": "2022-07-28T00:00:00.000+02:00",
+                "cost": 30.666510475,
+                "unitPrice": 1.472723,
+                "unitPriceVAT": 0.294545,
+                "consumption": 20.823,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-28T00:00:00.000+02:00",
+                "to": "2022-07-29T00:00:00.000+02:00",
+                "cost": 44.114138725,
+                "unitPrice": 1.836788,
+                "unitPriceVAT": 0.367358,
+                "consumption": 24.017,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-29T00:00:00.000+02:00",
+                "to": "2022-07-30T00:00:00.000+02:00",
+                "cost": 54.943984075,
+                "unitPrice": 2.074689,
+                "unitPriceVAT": 0.414938,
+                "consumption": 26.483,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-30T00:00:00.000+02:00",
+                "to": "2022-07-31T00:00:00.000+02:00",
+                "cost": 35.8601588125,
+                "unitPrice": 1.505022,
+                "unitPriceVAT": 0.301004,
+                "consumption": 23.827,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-07-31T00:00:00.000+02:00",
+                "to": "2022-08-01T00:00:00.000+02:00",
+                "cost": 28.9191119625,
+                "unitPrice": 0.966128,
+                "unitPriceVAT": 0.193226,
+                "consumption": 29.933,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-08-01T00:00:00.000+02:00",
+                "to": "2022-08-02T00:00:00.000+02:00",
+                "cost": 49.3136298,
+                "unitPrice": 1.942093,
+                "unitPriceVAT": 0.388419,
+                "consumption": 25.392,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-08-02T00:00:00.000+02:00",
+                "to": "2022-08-03T00:00:00.000+02:00",
+                "cost": 19.769885125,
+                "unitPrice": 0.779017,
+                "unitPriceVAT": 0.155803,
+                "consumption": 25.378,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-08-03T00:00:00.000+02:00",
+                "to": "2022-08-04T00:00:00.000+02:00",
+                "cost": 2.0166818,
+                "unitPrice": 0.107014,
+                "unitPriceVAT": 0.021403,
+                "consumption": 18.845,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-08-04T00:00:00.000+02:00",
+                "to": "2022-08-05T00:00:00.000+02:00",
+                "cost": 4.4232254625,
+                "unitPrice": 0.15966,
+                "unitPriceVAT": 0.031932,
+                "consumption": 27.704,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-08-05T00:00:00.000+02:00",
+                "to": "2022-08-06T00:00:00.000+02:00",
+                "cost": 8.105884725,
+                "unitPrice": 0.30399,
+                "unitPriceVAT": 0.060798,
+                "consumption": 26.665,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-08-06T00:00:00.000+02:00",
+                "to": "2022-08-07T00:00:00.000+02:00",
+                "cost": 3.5678682875,
+                "unitPrice": 0.126493,
+                "unitPriceVAT": 0.025299,
+                "consumption": 28.206,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-08-07T00:00:00.000+02:00",
+                "to": "2022-08-08T00:00:00.000+02:00",
+                "cost": 13.604543925,
+                "unitPrice": 0.581938,
+                "unitPriceVAT": 0.116388,
+                "consumption": 23.378,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-08-08T00:00:00.000+02:00",
+                "to": "2022-08-09T00:00:00.000+02:00",
+                "cost": 99.171121825,
+                "unitPrice": 3.549178,
+                "unitPriceVAT": 0.709836,
+                "consumption": 27.942,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-08-09T00:00:00.000+02:00",
+                "to": "2022-08-10T00:00:00.000+02:00",
+                "cost": 136.6225822125,
+                "unitPrice": 3.182969,
+                "unitPriceVAT": 0.636594,
+                "consumption": 42.923,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            },
+            {
+                "from": "2022-08-10T00:00:00.000+02:00",
+                "to": "2022-08-11T00:00:00.000+02:00",
+                "cost": 73.220509675,
+                "unitPrice": 1.89127,
+                "unitPriceVAT": 0.378254,
+                "consumption": 38.715,
+                "consumptionUnit": "kWh",
+                "currency": "SEK"
+            }
+        ]
+    }
+}

@@ -7,9 +7,8 @@
 	import '@carbon/charts/styles.css';
 	import { BarChartSimple, HistogramChart } from '@carbon/charts-svelte';
 
-	
 	let kaj = [];
-	
+
 	let query = `{
 		viewer {
 			homes {
@@ -47,7 +46,7 @@
 
 		kaj = await consumptiondata.consumption.nodes.map((x) => {
 			return {
-				group: x.from,
+				group: 'Date',
 				date: x.from,
 				value: x.unitPrice,
 				cost: x.cost,
@@ -79,7 +78,7 @@
 			height: '600px',
 			axes: {
 				left: { mapsTo: 'cost' },
-				bottom: { mapsTo: 'date', scaleType: 'labels' }
+				bottom: { mapsTo: 'date', scaleType: 'time' }
 			}
 		}}
 	/>
